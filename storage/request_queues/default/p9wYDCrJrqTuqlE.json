@@ -1,0 +1,9 @@
+{
+	"id": "p9wYDCrJrqTuqlE",
+	"json": "{\"id\":\"p9wYDCrJrqTuqlE\",\"url\":\"https://books.toscrape.com/catalogue/chase-me-paris-nights-2_977/index.html\",\"loadedUrl\":\"https://books.toscrape.com/catalogue/chase-me-paris-nights-2_977/index.html\",\"uniqueKey\":\"https://books.toscrape.com/catalogue/chase-me-paris-nights-2_977/index.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"PRODUCT\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-11-14T08:12:16.507Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://books.toscrape.com/catalogue/chase-me-paris-nights-2_977/index.html",
+	"url": "https://books.toscrape.com/catalogue/chase-me-paris-nights-2_977/index.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "48PpyC8jmuXUuJ0",
+	"json": "{\"id\":\"48PpyC8jmuXUuJ0\",\"url\":\"https://books.toscrape.com/catalogue/how-music-works_979/index.html\",\"loadedUrl\":\"https://books.toscrape.com/catalogue/how-music-works_979/index.html\",\"uniqueKey\":\"https://books.toscrape.com/catalogue/how-music-works_979/index.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"PRODUCT\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-11-14T08:12:10.281Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://books.toscrape.com/catalogue/how-music-works_979/index.html",
+	"url": "https://books.toscrape.com/catalogue/how-music-works_979/index.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "q0qD3uy8Zg0N80z",
+	"json": "{\"id\":\"q0qD3uy8Zg0N80z\",\"url\":\"https://books.toscrape.com/catalogue/page-2.html\",\"loadedUrl\":\"https://books.toscrape.com/catalogue/page-2.html\",\"uniqueKey\":\"https://books.toscrape.com/catalogue/page-2.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"LIST\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-11-14T08:12:04.544Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://books.toscrape.com/catalogue/page-2.html",
+	"url": "https://books.toscrape.com/catalogue/page-2.html"
+}

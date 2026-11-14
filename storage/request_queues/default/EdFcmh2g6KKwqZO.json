@@ -1,0 +1,9 @@
+{
+	"id": "EdFcmh2g6KKwqZO",
+	"json": "{\"id\":\"EdFcmh2g6KKwqZO\",\"url\":\"https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html\",\"loadedUrl\":\"https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html\",\"uniqueKey\":\"https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"PRODUCT\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-11-14T08:11:18.199Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html",
+	"url": "https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html"
+}

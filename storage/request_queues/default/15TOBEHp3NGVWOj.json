@@ -1,0 +1,9 @@
+{
+	"id": "15TOBEHp3NGVWOj",
+	"json": "{\"id\":\"15TOBEHp3NGVWOj\",\"url\":\"https://books.toscrape.com/catalogue/black-dust_976/index.html\",\"loadedUrl\":\"https://books.toscrape.com/catalogue/black-dust_976/index.html\",\"uniqueKey\":\"https://books.toscrape.com/catalogue/black-dust_976/index.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"PRODUCT\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-11-14T08:12:20.017Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://books.toscrape.com/catalogue/black-dust_976/index.html",
+	"url": "https://books.toscrape.com/catalogue/black-dust_976/index.html"
+}

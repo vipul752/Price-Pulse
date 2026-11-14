@@ -1,0 +1,9 @@
+{
+	"id": "NF1NidIi1KYRvvr",
+	"json": "{\"id\":\"NF1NidIi1KYRvvr\",\"url\":\"https://books.toscrape.com/catalogue/birdsong-a-story-in-pictures_975/index.html\",\"loadedUrl\":\"https://books.toscrape.com/catalogue/birdsong-a-story-in-pictures_975/index.html\",\"uniqueKey\":\"https://books.toscrape.com/catalogue/birdsong-a-story-in-pictures_975/index.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"PRODUCT\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-11-14T08:12:22.861Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://books.toscrape.com/catalogue/birdsong-a-story-in-pictures_975/index.html",
+	"url": "https://books.toscrape.com/catalogue/birdsong-a-story-in-pictures_975/index.html"
+}
